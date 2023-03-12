@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736437637236",
+    "project_id": "express-jatrakhana",
+    "storage_bucket": "express-jatrakhana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736437637236:android:dad2a55d21ac8a535c4121",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736437637236-7o4es61hs7ehfgii3psct25199qvv1f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KzbOkmxSZOvjWk0Kl2lcCbFaNy2kKQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736437637236-7o4es61hs7ehfgii3psct25199qvv1f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
